@@ -28,6 +28,9 @@ Este repositório foi criado para centralizar a documentação técnica e funcio
 - [APIs](https://github.com/grupo-02-turma-javascript-06/rh-backend)
 
 
+### **Projeto 2: Sistema de CRM BACKEND**
+- [Visão Geral](/CRM_Documentacoes/CRM_2Connect_backend.pdf)
+- [APIs](https://github.com/grupo-02-turma-javascript-06/crm-backend.git)
 
 ---
 
