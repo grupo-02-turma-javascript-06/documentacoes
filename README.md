@@ -8,7 +8,6 @@ Bem-vindo(a) ao repositório de documentações! Aqui você encontrará todas as
 1. [📖 Visão Geral](#-visão-geral)
 2. [🚀 Projetos Documentados](#-projetos-documentados)
 
-
 ---
 
 ## 📖 **Visão Geral**
@@ -31,6 +30,10 @@ Este repositório foi criado para centralizar a documentação técnica e funcio
 ### **Projeto 2: Sistema de CRM BACKEND**
 - [Visão Geral](/CRM_Documentacoes/CRM_2Connect_backend.pdf)
 - [APIs](https://github.com/grupo-02-turma-javascript-06/crm-backend.git)
+
+### **Projeto 3: Sistema de Fitness BACKEND**
+- [Visão Geral](/Fitness_Documentacoes/FITNESS_MOVE2FIT_backend.pdf)
+- [APIs](https://github.com/grupo-02-turma-javascript-06/fitness-backend/)
 
 ---
 
