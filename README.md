@@ -35,7 +35,7 @@ Este repositório foi criado para centralizar a documentação técnica e funcio
 - [Visão Geral](/Fitness_Documentacoes/FITNESS_MOVE2FIT_backend.pdf)
 - [APIs](https://github.com/grupo-02-turma-javascript-06/fitness-backend/)
 
-### **Projeto 4: Sistema de Fitness BACKEND**
+### **Projeto 4: Sistema de Gestão de RH FRONTEND**
 - [Visão Geral](/Rh_Front_Documentacoes/PROJETO_04_RH_frontend.pdf)
 - [APIs](https://github.com/grupo-02-turma-javascript-06/rh-frontend/)
 
